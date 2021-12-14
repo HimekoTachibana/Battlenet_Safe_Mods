@@ -1,4 +1,5 @@
 # Battlenet_Safe_Mods
+# Item Loot Filter
 # Installation
 
 1. Copy mods to the Diablo II Resurrected install folder.
